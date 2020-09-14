@@ -1,0 +1,14 @@
+{
+  "name": "simple-ut",
+  "version": "1.0.0",
+  "description": "unit testing sederhana",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "afif hendrawan",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
