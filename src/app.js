@@ -1,4 +1,7 @@
-import { incrementQty, decrementQty } from './helpers.js';
+import { 
+  incrementQty, 
+  decrementQty
+} from './helpers.js';
 
 const incrButton = document.querySelector('#incr');
 const decrButton = document.querySelector('#decr');
